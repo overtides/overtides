@@ -1,16 +1,13 @@
-## Hi there 👋
+## My Collaborations & Group Projects
 
-<!--
-**overtides/overtides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are the projects I have worked on hosted by other developers:
 
-Here are some ideas to get you started:
+* **[Mission Demolition](https://github.com/27Tsogjan/Mission-Demolition)** – Hosted by @27Tsogjan
+  * *My Role:* Generalist Game Programmer
+  * *Tech Stack:* C#
+  * *Key Contribution:* Built all the Scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[Second Project Name](https://github.com)** – Hosted by @
+  * *My Role:*
+  * *Tech Stack:*
+  * *Key Contribution:*
