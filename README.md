@@ -2,7 +2,7 @@
 
 ### [Pumpkin Cultivar Identifier](https://pumpkinai2.web.app/) (Senior Capstone Project - Proprietary Source Code)
   *Built an AI-powered web application to identify pumpkin cultivars based on a photo.*
-  * *Client:* [Michael Bopp (@wooki3furball)](https://github.com) for Braeutigam Orchards in Belleville, IL
+  * *Client:* [Michael Bopp (@wooki3furball)](https://github.com/wooki3furball) for Braeutigam Orchards in Belleville, IL
   * *My Role:* Frontend Developer
   * *Tech Stack:* JavaScript, HTML/CSS, Bootstrap 5, Google Maps API, Firebase, GCP, TensorBoard
   * *Collaborated On:* Python, Flask, Roboflow
@@ -12,12 +12,12 @@
 
 Here are the projects I have worked on hosted by other developers:
 
-* **[Mission Demolition](https://github.com/27Tsogjan/Mission-Demolition)** – Hosted by [@27Tsogjan](https://github.com)
+* **[Mission Demolition](https://github.com/27Tsogjan/Mission-Demolition)** – Hosted by [@27Tsogjan](https://github.com/27Tsogjan)
   * *My Role:* Generalist Game Programmer
   * *Tech Stack:* C#, Unity
   * *Key Contribution:* Built all the scripts.
 
-* **[Space-SHMUP](https://github.com/27Tsogjan/Space-SHMUP)** – Hosted by [@27Tsogjan](https://github.com)
+* **[Space-SHMUP](https://github.com/27Tsogjan/Space-SHMUP)** – Hosted by [@27Tsogjan](https://github.com/27Tsogjan)
   * *My Role:* Generalist Game Programmer
   * *Tech Stack:* C#, Unity
   * *Key Contribution:* Built all the scripts.
