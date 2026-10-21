@@ -7,7 +7,7 @@ Here are the projects I have worked on hosted by other developers:
   * *Tech Stack:* C#, Unity
   * *Key Contribution:* Built all the scripts.
 
-* **[Second Project Name](https://github.com)** – Hosted by @
-  * *My Role:*
-  * *Tech Stack:*
-  * *Key Contribution:*
+* **[Space-SHMUP](https://github.com/27Tsogjan/Space-SHMUP)** – Hosted by @27Tsogjan
+  * *My Role:* Generalist Game Programmer
+  * *Tech Stack:* C#, Unity
+  * *Key Contribution:* Built all the scripts.
