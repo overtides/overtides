@@ -7,7 +7,7 @@ Here are the projects I have worked on hosted by other developers:
   * *My Role:* Frontend Developer
   * *Tech Stack:* JavaScript, HTML/CSS, Bootstrap 5, Google Maps API, Firebase
   * *Collaborated On:* Python, Flask, TensorBoard, Roboflow
-  * *Key Contribution:* Designed and developed the entire frontend user interface while assisting with data labeling, backend TensorBoard integration, and AI hyperparameter grid search.
+  * *Key Contribution:* Designed and developed the entire frontend user interface while assisting with data labeling, model performance metrics, backend TensorBoard integration, and AI hyperparameter grid search.
 
 * **[Mission Demolition](https://github.com/27Tsogjan/Mission-Demolition)** – Hosted by @27Tsogjan
   * *My Role:* Generalist Game Programmer
